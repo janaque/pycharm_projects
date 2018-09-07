@@ -1,3 +1,4 @@
+#!/usr/local/bin/python3
 import os
 
 var1 = input("Enter you first name: ")
