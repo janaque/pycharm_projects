@@ -1,0 +1,1 @@
+i = 1while i <= 10:    print(i)    i += 1print("done!!!")print("     ")count = 1while count <= 9:   print ('The count is:', count)   count += 1#  count = count + 1   ##same as aboveprint ("Good bye!")
